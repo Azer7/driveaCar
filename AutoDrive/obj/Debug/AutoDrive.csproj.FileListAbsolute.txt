@@ -1,0 +1,7 @@
+C:\Users\Azer\Desktop\Programming\BackEnd\lesson_54-02.03\AutoDrive\AutoDrive\bin\Debug\AutoDrive.exe.config
+C:\Users\Azer\Desktop\Programming\BackEnd\lesson_54-02.03\AutoDrive\AutoDrive\bin\Debug\AutoDrive.exe
+C:\Users\Azer\Desktop\Programming\BackEnd\lesson_54-02.03\AutoDrive\AutoDrive\bin\Debug\AutoDrive.pdb
+C:\Users\Azer\Desktop\Programming\BackEnd\lesson_54-02.03\AutoDrive\AutoDrive\obj\Debug\AutoDrive.csprojResolveAssemblyReference.cache
+C:\Users\Azer\Desktop\Programming\BackEnd\lesson_54-02.03\AutoDrive\AutoDrive\obj\Debug\AutoDrive.csproj.CoreCompileInputs.cache
+C:\Users\Azer\Desktop\Programming\BackEnd\lesson_54-02.03\AutoDrive\AutoDrive\obj\Debug\AutoDrive.exe
+C:\Users\Azer\Desktop\Programming\BackEnd\lesson_54-02.03\AutoDrive\AutoDrive\obj\Debug\AutoDrive.pdb
